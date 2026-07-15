@@ -79,7 +79,7 @@ This project is maintained independently and is intended for users who prefer ac
 
 # 📸 Screenshots
 
-Screenshots will be added in future releases.
+![photo](assets/photo.png)
 
 ---
 
